@@ -1,0 +1,39 @@
+* {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+    color: white;
+}
+p {
+  font-size: 16px;
+  font-weight: normal;
+    color: Aquamarine;
+}
+.guide {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+.description {
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+}
+.phone-image {
+  text-align: center;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+h5 {
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+  text-align: right;
+}
